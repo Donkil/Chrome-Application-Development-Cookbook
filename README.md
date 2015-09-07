@@ -1,5 +1,7 @@
 # Chrome应用程序开发经典实例
 
+如果您对目录有更好的建议，请通过[此处提交](https://github.com/Donkil/Chrome-Application-Development-Cookbook/issues/new)，非常感谢。
+
 <img src="http://sneezry.cn/githubcontents/cover.png" width="500">
 
 * [更改在线网页外观](modify_online_web_outlooking.md)
